@@ -5,6 +5,7 @@
     "scheme": "twine",
     "version": "1.0.0",
     "orientation": "portrait",
+    "entryPoint": "./src/app/index.ts",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
