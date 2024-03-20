@@ -10,8 +10,8 @@ import {
 } from "react-native";
 
 // Home page w/ product search (shoes)
-// ability to add to car
-// checkout w/ test payment via Stripe
+// ability to add to cart
+// checkout w/ test payment --> Stripe or built-in Shopify func
 // confirmation
 
 type ListItem = {
